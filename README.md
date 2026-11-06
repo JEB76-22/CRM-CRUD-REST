@@ -40,8 +40,6 @@ Cada cliente incluye nombre, correo electrónico, teléfono y empresa. La interf
 
 ## 🖼️ Capturas de pantalla
 
-Las imágenes de ejemplo están guardadas en la carpeta `img/`.
-
 <div align="center">
 
 ### Listado de clientes
