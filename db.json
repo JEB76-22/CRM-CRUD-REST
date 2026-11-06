@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "nombre": "Javier Edu",
+      "email": "javi@gmail.com",
+      "telefono": "02223388",
+      "empresa": "jeb&DEV",
+      "id": "beFf9nwg5S4"
+    },
+    {
+      "nombre": "Sofia",
+      "email": "sofia@gmail.com",
+      "telefono": "0263335557458",
+      "empresa": "LaSofa",
+      "id": "23Gj7OZOtuI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
