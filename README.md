@@ -16,13 +16,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/JSON_Server-6B7280?style=for-the-badge&logo=json&logoColor=white" alt="JSON Server">
 </p>
-
-<p>
-  <a href="https://TU-USUARIO.netlify.app">🚀 Ver demo</a>
-  ·
-  <a href="#-capturas-de-pantalla">🖼️ Ver capturas</a>
-</p>
-
 </div>
 
 ---
@@ -65,11 +58,6 @@ Las imágenes de ejemplo están guardadas en la carpeta `img/`.
 
 </div>
 
-Para agregar otras capturas, guarda las imágenes dentro de `img/` y enlázalas aquí, por ejemplo:
-
-```md
-![Descripción de la captura](./img/nombre-de-la-captura.png)
-```
 
 ## 🧰 Tecnologías utilizadas
 
@@ -120,7 +108,6 @@ Para agregar otras capturas, guarda las imágenes dentro de `img/` y enlázalas 
 
 3. Abre `index.html` con Live Server (o con otro servidor estático local) para usar la aplicación.
 
-> Mantén JSON Server en ejecución mientras usas el CRUD. La URL de la API está configurada en `js/API.js`.
 
 ## 📁 Estructura del proyecto
 
